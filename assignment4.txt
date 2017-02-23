@@ -1,0 +1,61 @@
+1. Characteristics of Big data
+
+  There are 5 characteristics of big data.They are
+   
+  .Volume
+  .Velocity
+  .Variety
+  .Veracity
+  .Value
+VOLUME   : The size of the data is referred as volume.There are various sources for
+                     big data that leads to the increase in the amount of data with time.And
+                     big data refers to large  amount of data and hence volume is an 
+                     important characteristic  of big data
+                  
+VELOCITY : Velocity refers to speed of processing large amount of data.The amount 
+                    of data grows with high speed and hence it becomes necessary to
+                   process the data with high speed.
+
+VARIETY    : There are different types of data which is referred as the varieties of 
+                      data.They can be either structured or unstructured or semistructured.
+                      Big data refers to handling with such varieties of data.
+
+VERACITY  : The abnormality and the noise which is present in a data is called as 
+                      Veracity.Veracity deals with analysis of the data in order to check 
+                       whether only meaningful data is stored
+VALUE        :  Value is a most important characteristic of big data.Large volume 
+                       and variety of data forms the value of big data that can be accessed 
+                      easily in order to deliver quality results.
+---------------------------------------------------------------------------------------------------------------
+2.Possible solutions to handle bigdata:
+
+The possible solutions to handle bigdata are 
+      .Scale up
+      .Scale out.
+
+SCALE UP: The process of adding resources to a single system in order to increase
+                   its  configuration is known as scale up.
+Disadvantages:
+*Costly
+*Time Consuming
+*Complex
+
+SCALE OUT: Multiple machines are added to an existing machine in order to 
+                      distribute the loads of data among them to increase the performance.
+                      Scale out is more reliable than scale in.
+---------------------------------------------------------------------------------------------------------------
+
+3.Difference between scaling up and scaling down:
+
+SCALE UP : Scale up is used to increase the configuration of the single system by
+                   adding resources  to the same system.Some limitations of sale up 
+                   includes that it is complex,time consuming and also costly
+
+SCALE OUT : Multiple machines are added to an existing machine is known as 
+                       scale out.It is used tp  distribute the loads of data among them
+                       to increase the performance.Scale out is more reliable than scale in.
+
+---------------------------------------------------------------------------------------------------------------
+
+
+
